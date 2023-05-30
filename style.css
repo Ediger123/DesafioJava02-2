@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DotGothic16&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100vw;
+    height: 40vw;
+    gap: 20px;
+    flex-wrap: wrap;
+    background-color: beige;
+}
+
+.box h1{
+    font-family: 'Rampart One';
+    color: #000000;
+}
+
+.button{
+    border-radius: 50px;
+    font-size: large;
+    background-color: #fccf55;
+    height: 4vw;
+    width: 20vw;
+    font-family: 'DotGothic16';
+}
+
+.box p{
+    color: #000000;
+    font-family: 'DotGothic16';
+}
+
+.n1{
+    background-color: rgb(248, 229, 205);
+    border-radius: 20px;
+    width: 180px;
+    height: 25px;
+}
+
+.n2{
+    background-color: rgb(248, 229, 205);
+    border-radius: 20px;
+    width: 180px;
+    height: 25px;
+}
+
+.n3{
+    background-color: rgb(248, 229, 205);
+    border-radius: 20px;
+    width: 180px;
+    height: 25px;
+}
+
+.nome{
+    background-color: rgb(250, 238, 223);
+    border-radius: 20px;
+    width: 180px;
+    height: 25px;
+}
